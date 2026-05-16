@@ -97,9 +97,6 @@ Update the NEXT_PUBLIC_API_URL variable with your Ngrok URL.
 
 Go to the Deployments tab and click Redeploy.
 
-🎥 Demo Video
+## 🎥 Demo Video
 
-<video src="https://github.com/user-attachments/assets/7558f228-1858-4147-bafb-69805ac34097" type="video/mp4" controls="controls" width="100%"></video>
-
-
-
+https://github.com/user-attachments/assets/7558f228-1858-4147-bafb-69805ac34097
