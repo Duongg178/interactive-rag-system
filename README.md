@@ -99,8 +99,7 @@ Go to the Deployments tab and click Redeploy.
 
 🎥 Demo Video
 
-
-<video src="https://github.com/user-attachments/assets/7558f228-1858-4147-bafb-69805ac34097" controls="controls" width="100%"></video>
+<video src="https://github.com/user-attachments/assets/7558f228-1858-4147-bafb-69805ac34097" type="video/mp4" controls="controls" width="100%"></video>
 
 
 
